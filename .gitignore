@@ -1,2 +1,5 @@
 RealWaste/
 Preview/
+*.h5
+.ipynb_checkpoints/
+./.ipynb_checkpoints/
