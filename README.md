@@ -12,3 +12,4 @@ Data source: Single,Sam, Iranmanesh,Saeid, and Raad,Raad. (2023). RealWaste. UCI
 - [ ] Hyperband optimization
 - [x] Transfer learning (VGG19, DenseNet121, InceptionV3, MobileNet)
 - [x] Ensemble Learning (Soft voting)
+- [x] Vision Transformer
