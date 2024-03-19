@@ -7,9 +7,10 @@ Data source: Single,Sam, Iranmanesh,Saeid, and Raad,Raad. (2023). RealWaste. UCI
 ## Outline
 - [x] data augmentation
 - [x] SIFT feature extraction
-- [ ] Autoencoder feature extration
-- [ ] Random Forests
-- [ ] Hyperband optimization
+- [x] Autoencoder feature extration
+- [x] CNN
+- [x] Random Forests with Random Search Optimization
+- [x] SVM
 - [x] Transfer learning (VGG19, DenseNet121, InceptionV3, MobileNet)
 - [x] Ensemble Learning (Soft voting)
 - [x] Vision Transformer
