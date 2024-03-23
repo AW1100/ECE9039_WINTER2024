@@ -5,7 +5,7 @@ Description:  9 classes garbage image classification
 Data source: Single,Sam, Iranmanesh,Saeid, and Raad,Raad. (2023). RealWaste. UCI Machine Learning Repository. https://doi.org/10.24432/C5SS4G.
 
 ## Outline
-- [x] data augmentation
+- [x] Data augmentation
 - [x] SIFT feature extraction
 - [x] Autoencoder feature extration
 - [x] CNN
